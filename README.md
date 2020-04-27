@@ -24,6 +24,6 @@ Gestire i seguenti errori:
 - nome utente già esistente
 - nome utente a cui inviare il messaggio non esistente
 
-###ATTENZIONE
+### ATTENZIONE
 sarà necessaria una struttura dati condivisa tra i vari Thread della SocketServer per contenere le informazioni sulle socket client connesse.
 Gestire questa struttura in modo sincronizzato per evitare problemi di concorrenza
